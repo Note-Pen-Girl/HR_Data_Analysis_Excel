@@ -7,6 +7,15 @@ Employee attrition is a critical challenge that impacts organizational performan
 Using Excel for data analysis and visualization, the objective is to identify key factors contributing to employee turnover, uncover high-risk groups, and highlight trends that influence retention. The analysis seeks to provide actionable insights that can help HR teams make data-driven decisions to improve employee satisfaction, optimize workforce planning, and reduce attrition rates.
 
 ---
+## 👨🏻‍💻 Business Question
+
+The company is experiencing high employee attrition and wants to understand:
+
+    - Which departments and roles are losing people the fastest?  
+    - Which age and tenure segments are at the highest risk?  
+    - What actions HR can take to reduce attrition?
+
+---
 
 ## 🎯 Objective
 
